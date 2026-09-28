@@ -82,4 +82,4 @@ If you find this work useful, please consider citing:
 
 ## 📬 Contact
 
-For questions or collaboration, please open an issue in this repository.
+For questions or collaboration, please open an issue in this repository or email **Rui Huang** at [ruihuang@u.nus.edu](mailto:ruihuang@u.nus.edu).
