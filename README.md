@@ -66,18 +66,17 @@ More videos — RL policies, 3-DoF open/close and long-horizon tasks, outdoor pa
 - [ ] Data-generation code: simulation, payload-aware control, hybrid expert and RL policies *(after acceptance)*
 - [ ] Training and evaluation code for IL / VLA baselines *(after acceptance)*
 
-## 📖 Citation
+## 📖 Citation *(coming soon)*
 
-If you find this work useful, please consider citing:
+Venue, year and arXiv ID will be added once the paper is public. In the meantime, if you find this work useful, please consider citing:
 
 ```bibtex
-@article{huang2026aeromanipvla,
-  title   = {AeroManip-VLA: Scalable Vision-Language-Action Learning for
-             Aerial Manipulation with RL-Generated Demonstrations},
-  author  = {Huang, Rui and Mu, Yanlin and Li, Lidong and Wang, Yucong
-             and Yan, Zichen and Zhao, Lin},
-  journal = {arXiv preprint},
-  year    = {2026}
+@misc{aeromanipvla,
+  title  = {AeroManip-VLA: Scalable Vision-Language-Action Learning for
+            Aerial Manipulation with RL-Generated Demonstrations},
+  author = {Huang, Rui and Mu, Yanlin and Li, Lidong and Wang, Yucong
+            and Yan, Zichen and Zhao, Lin},
+  note   = {Coming soon}
 }
 ```
 
