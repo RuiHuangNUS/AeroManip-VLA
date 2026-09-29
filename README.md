@@ -10,7 +10,7 @@
 
 [![Project Page](https://img.shields.io/badge/Project-Page-e8862a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ruihuangnus.github.io/AeroManip-VLA-page/)
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-Coming%20Soon-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/1uljytfGFI4)
 [![Bilibili](https://img.shields.io/badge/Bilibili-Coming%20Soon-00a1d6?style=for-the-badge&logo=bilibili&logoColor=white)](#)
 [![Dataset](https://img.shields.io/badge/Dataset-Coming%20Soon-2f6fde?style=for-the-badge&logo=huggingface&logoColor=white)](#)
 
@@ -59,7 +59,8 @@ More videos — RL policies, 3-DoF open/close and long-horizon tasks, outdoor pa
 
 - [x] Paper submission
 - [x] Project page with demo videos
-- [ ] Full demo video on YouTube / Bilibili
+- [x] Full demo video on [YouTube](https://youtu.be/1uljytfGFI4)
+- [ ] Full demo video on Bilibili
 - [ ] Paper on arXiv
 - [ ] Dataset release *(after acceptance)*
 - [ ] Data-generation code: simulation, payload-aware control, hybrid expert and RL policies *(after acceptance)*
