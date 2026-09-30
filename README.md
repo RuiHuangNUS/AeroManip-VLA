@@ -11,7 +11,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-e8862a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ruihuangnus.github.io/AeroManip-VLA-page/)
 [![Paper](https://img.shields.io/badge/Paper-2609.36915-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.36915)
 [![YouTube](https://img.shields.io/badge/YouTube-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/1uljytfGFI4)
-[![Bilibili](https://img.shields.io/badge/Bilibili-Coming%20Soon-00a1d6?style=for-the-badge&logo=bilibili&logoColor=white)](#)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Video-00a1d6?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV18Qad6oEY7)
 [![Dataset](https://img.shields.io/badge/Dataset-Coming%20Soon-2f6fde?style=for-the-badge&logo=huggingface&logoColor=white)](#)
 
 <img src="assets/teaser.gif" width="85%" alt="From one aerial manipulator to thousands of parallel environments on a single GPU">
@@ -61,7 +61,7 @@ More videos — RL policies, 3-DoF open/close and long-horizon tasks, outdoor pa
 - [x] Paper submission
 - [x] Project page with demo videos
 - [x] Full demo video on [YouTube](https://youtu.be/1uljytfGFI4)
-- [ ] Full demo video on Bilibili
+- [x] Full demo video on [Bilibili](https://www.bilibili.com/video/BV18Qad6oEY7)
 - [x] Paper on [arXiv](https://arxiv.org/abs/2609.36915)
 - [ ] Dataset release *(after acceptance)*
 - [ ] Data-generation code: simulation, payload-aware control, hybrid expert and RL policies *(after acceptance)*
