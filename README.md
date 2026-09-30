@@ -9,7 +9,7 @@
 <sup>1</sup>National University of Singapore &nbsp;&nbsp; <sup>2</sup>Beijing Institute of Technology
 
 [![Project Page](https://img.shields.io/badge/Project-Page-e8862a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ruihuangnus.github.io/AeroManip-VLA-page/)
-[![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](#)
+[![Paper](https://img.shields.io/badge/Paper-2609.36915-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.36915)
 [![YouTube](https://img.shields.io/badge/YouTube-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/1uljytfGFI4)
 [![Bilibili](https://img.shields.io/badge/Bilibili-Coming%20Soon-00a1d6?style=for-the-badge&logo=bilibili&logoColor=white)](#)
 [![Dataset](https://img.shields.io/badge/Dataset-Coming%20Soon-2f6fde?style=for-the-badge&logo=huggingface&logoColor=white)](#)
@@ -25,6 +25,7 @@
 ## 📢 News
 
 - **2026-09** — Paper submitted. The [project page](https://ruihuangnus.github.io/AeroManip-VLA-page/) is online with demo videos of every task.
+- **2026-09** — Preprint available on [arXiv](https://arxiv.org/abs/2609.36915).
 - **Coming soon** — We are preparing the latest version of the dataset. The **data-generation code** and the **dataset** will be released promptly after the paper is accepted. ⭐ Star or watch this repository to get notified.
 
 ## 🔍 Overview
@@ -61,22 +62,23 @@ More videos — RL policies, 3-DoF open/close and long-horizon tasks, outdoor pa
 - [x] Project page with demo videos
 - [x] Full demo video on [YouTube](https://youtu.be/1uljytfGFI4)
 - [ ] Full demo video on Bilibili
-- [ ] Paper on arXiv
+- [x] Paper on [arXiv](https://arxiv.org/abs/2609.36915)
 - [ ] Dataset release *(after acceptance)*
 - [ ] Data-generation code: simulation, payload-aware control, hybrid expert and RL policies *(after acceptance)*
 - [ ] Training and evaluation code for IL / VLA baselines *(after acceptance)*
 
-## 📖 Citation *(coming soon)*
+## 📖 Citation
 
-Venue, year and arXiv ID will be added once the paper is public. In the meantime, if you find this work useful, please consider citing:
+If you find this work useful, please consider citing:
 
 ```bibtex
-@misc{aeromanipvla,
-  title  = {AeroManip-VLA: Scalable Vision-Language-Action Learning for
-            Aerial Manipulation with RL-Generated Demonstrations},
-  author = {Huang, Rui and Mu, Yanlin and Li, Lidong and Wang, Yucong
-            and Yan, Zichen and Zhao, Lin},
-  note   = {Coming soon}
+@article{huang2026aeromanipvla,
+  title   = {AeroManip-VLA: Scalable Vision-Language-Action Learning for
+             Aerial Manipulation with RL-Generated Demonstrations},
+  author  = {Huang, Rui and Mu, Yanlin and Li, Lidong and Wang, Yucong
+             and Yan, Zichen and Zhao, Lin},
+  journal = {arXiv preprint arXiv:2609.36915},
+  year    = {2026}
 }
 ```
 
